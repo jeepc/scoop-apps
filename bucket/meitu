@@ -1,0 +1,8 @@
+{
+  "version": "last",
+  "description": "美图秀秀",
+  "homepage": "https://pc.meitu.com/",
+  "url": "https://xiuxiu.dl.meitu.com/pc_channel64/xiuxiu64_setup.exe#/xiuxiu64_setup.exe",
+  "shortcuts": [["xiuxiu64_setup.exe", "安装美图秀秀"]],
+  "post_install": ["&\"$dir\\xiuxiu64_setup.exe\""]
+}
